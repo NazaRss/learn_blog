@@ -1,0 +1,103 @@
+html,body {
+margin-top:0;
+margin-bottom: 50px;
+background-attachment: fixed;
+}
+
+.main {
+text-align: center;
+font-family: Verdana;
+font-weight: normal;
+font-size: 11px;
+width: 860;
+background-color: #f7f7f7;
+border: 0px #d79900 solid;
+border-collapse: collapse;
+border-right: 1px solid #d9e0e7;
+border-left: 1px solid #d9e0e7;
+}
+
+.mainhead {
+font-family: Tahoma, Verdana;
+text-align: center;
+font-weight: normal;
+height: 130;
+color: #27317E;
+font-size: 24px;
+border-bottom: 1px solid #d9e0e7;
+}
+
+
+.mainh {
+color: #27317E;
+}
+
+.mainh:hover {
+color:#27317E;
+background: f7f7f7;
+text-decoration:underline;
+} 
+
+.mainlinks {
+font-family: Verdana;
+font-weight: bold;
+font-size: 12px;
+width: 150px;
+border-right: 1px solid #d9e0e7;
+border-bottom: 1px solid #d9e0e7;
+}
+
+a {
+color: #4b0d6f;
+text-decoration: none;  
+}
+
+a:hover {
+background: #27317E;  
+color: #fff;  
+} 
+
+.frame {
+background-color: #ffffff;
+border-bottom: 1px solid #d9e0e7;
+padding: 5 10;
+text-align: left;
+vertical-align: text-top;
+}
+
+.up {
+display:block;
+} 
+
+.p:hover {
+background: #ffffff;
+color: #4b0d6f;
+text-decoration: underline;
+padding: 0px; 
+}
+
+.z {
+color: #000000;
+}
+
+h3  {
+  font-family: Tahoma;
+  font-weight: bold;
+  font-size: 16px;
+  color: #27317E;
+  text-align: center;
+}
+
+h1 {
+  font-family: Tahoma;
+  font-weight: bold;
+  font-size: 14px;
+  color: #000000; 
+  text-align: center;
+}
+
+.mybutton:active {
+   position: relative;
+   top: 1px;
+   left: 1px;
+}
